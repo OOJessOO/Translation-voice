@@ -21,7 +21,7 @@ LANGUAGES = {
 
 DEFAULT_LANGS = ("mg", "fr", "en")
 
-STT_MODEL = "small"
+STT_MODEL = "base"
 STT_DEVICE = "cpu"
 
 SAMPLE_RATE = 16000
